@@ -60,8 +60,10 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+reported to the community leaders responsible for enforcement through
+the [Tomodachi Labs Discord server's](https://discord.gg/Xs3VKNJrMb) `/moderation report` command,
+private message to `@tomodachi94` on Discord, email to [tomodachi94+conduct@protonmail.com](mailto:tomodachi94+conduct@protonmail.com),
+or Mastodon private message to [@tomodachi94@floss.social](https://floss.social/@tomodachi94)..
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
