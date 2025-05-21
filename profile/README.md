@@ -6,4 +6,4 @@
 * [`unicornpkg-main`](https://github.com/unicornpkg/unicornpkg-main) is the primary package repository for all implementations.
 * [`libcompat`](https://github.com/unicornpkg/libcompat), a cross-platform compatibility abstraction.
 * [`cli`](https://github.com/unicornpkg/cli), the command-line interface for `libunicornpkg`.
-* [Some other stuff too.](https://github.com/orgs/unicornpkg/repositories).
+* [Some other stuff too](https://github.com/orgs/unicornpkg/repositories).
