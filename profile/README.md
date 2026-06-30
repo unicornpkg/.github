@@ -6,3 +6,5 @@
 * [`unicornpkg-main`](https://github.com/unicornpkg/unicornpkg-main) is the primary package repository for all implementations.
 * [`libcompat`](https://github.com/unicornpkg/libcompat), a cross-platform compatibility abstraction.
 * [Some other stuff too](https://github.com/orgs/unicornpkg/repositories).
+
+*[Icon by Pearson Scott Foresman, public domain, via Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:Unicorn_3_(PSF).png)*
