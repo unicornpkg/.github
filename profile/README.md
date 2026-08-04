@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/1051672230226042980)](https://discord.gg/Xs3VKNJrMb) [![Read the docs](https://img.shields.io/badge/read%20the-docs-blue)](https://unicornpkg.madefor.cc) [![Install with `wget run`](https://img.shields.io/badge/install%20with-wget%20run-brightgreen)](https://unicornpkg.github.io/wing/install.lua)
+[![Discord](https://img.shields.io/discord/1051672230226042980)](https://discord.gg/Xs3VKNJrMb) [![Read the docs](https://img.shields.io/badge/read%20the-docs-blue)](https://unicornpkg.madefor.cc) [![Install with `wget run`](https://img.shields.io/badge/install%20with-wget%20run-brightgreen)](https://unicornpkg.madefor.cc/how-tos/installation.html)
 
 *unicornpkg* is a package management ecosystem for ComputerCraft.
 
